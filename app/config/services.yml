@@ -1,0 +1,4 @@
+services:
+    app.random_word:
+        class: AppBundle\Service\RandomWord
+        arguments: ["%kernel.root_dir%","%dictionaries%"]
