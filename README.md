@@ -1,6 +1,4 @@
-.ymt
+.ymt - YouMissTube
 =========
-
-### YouMissTube
 
 Operation code: Programmation Caca Feliz
